@@ -12,13 +12,14 @@ A flashcard generator that extracts words from a text to create a deck. The user
 This software will facilitate learning not only by virtue of the application, itself, but also by "priming" the user to read the selected text, so that when the user comes upon a word they have studied on a flashcard, they will have the opportunity to recall the word within the rich context that the text provides--a context uninterrupted by looking up the word in a dictionary.
 
 ### Features
-Slider to select frequency range of words to be presented (this feature can eliminate common words that occur frequently)<br />
-User decides whether the word and the sentence in which it was found, or merely the word itself, will appear on each card's front.<br />
-User login<br />
-User libraries (user can save their decks)<br />
-Option to optimize cards for langauge learners<br />
-Add images option<br />
-Decks packaged and uploadable to Anki<br />
+<ul>
+  <li>Slider to select frequency range of words to be presented (this feature can eliminate common words that occur frequently)</li>
+  <li>User decides whether the word and the sentence in which it was found, or merely the word itself, will appear on each card's front.</li>
+  <li>User login</li>
+  <li>User libraries (user can save their decks)</li>
+  <li>Option to optimize cards for langauge learners</li>
+  <li>Add images option</li>
+  <li>Decks packaged and uploadable to Anki</li>
 
 ### Technologies
 Javascript<br />
